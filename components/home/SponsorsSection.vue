@@ -2,8 +2,8 @@
   <v-container fluid >
     <v-row>
       <v-col md="12">
-        <h1>Nuestros Sponsors</h1>
-        <p>Sponsors dedicados a crear experiencias extraordinarias!</p>
+        <h1 class="text-center">Nuestros Sponsors</h1>
+        <p class="text-center">¡Gracias por hacer posible este evento y ayudarnos a crear experiencias y aprendizajes extraordinarios!</p>
 
         <v-container fluid class="pa-0 mt-4">
           <CommonSponsorInfo />

@@ -1,6 +1,7 @@
 [
     {
         "category_name": "Sponsors Gold",
+        "category_icon": "gold_medal.png",
         "sponsors": [
             {
                 "name": "Dátil",
@@ -21,6 +22,7 @@
     },
     {
         "category_name": "Sponsor Bronce",
+        "category_icon": "bronce_medal.png",
         "sponsors": [
             {
                 "name": "Jetbrains",
