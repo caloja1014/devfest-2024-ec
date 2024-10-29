@@ -1,23 +1,42 @@
 [
-  {
-      "category_name": "",
-      "sponsors": [
-          {
-              "name":"Jetbrains",
-              "link": "https://www.jetbrains.com/es-es/",
-              "logo": "jetbrains_DM7wGjl.png"   
-          }
-      ]
-  },
-  {
-      "category_name": "Venue",
-      "sponsors": [
-          {
-              "name":"Universidad de Especialidades Espíritu Santo",
-              "link": "https://uees.edu.ec",
-              "logo": "Logo-UEES-2018---Vertical.png"   
-          }
-      ]
-  }
-
+    {
+        "category_name": "Sponsors Gold",
+        "sponsors": [
+            {
+                "name": "Dátil",
+                "link": "https://datil.com/",
+                "logo": "Logo_datil.png"
+            },
+            {
+                "name": "Globant",
+                "link": "https://www.globant.com/",
+                "logo": "Logo_Globant.png"
+            },
+            {
+                "name": "The Bridge",
+                "link": "https://thebridge.com/",
+                "logo": "Logo_TheBridge.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Sponsor Bronce",
+        "sponsors": [
+            {
+                "name": "Jetbrains",
+                "link": "https://www.jetbrains.com/es-es/",
+                "logo": "jetbrains_DM7wGjl.png"
+            }
+        ]
+    },
+    {
+        "category_name": "Venue",
+        "sponsors": [
+            {
+                "name": "Universidad de Especialidades Espíritu Santo",
+                "link": "https://uees.edu.ec",
+                "logo": "Logo-UEES-2018---Vertical.png"
+            }
+        ]
+    }
 ]
