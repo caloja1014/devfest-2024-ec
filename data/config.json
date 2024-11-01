@@ -15,7 +15,7 @@
   "eventInfo": {
     "name": "DevFest Ecuador 2024",
     "date": "Nov 23, 2024",
-    "time": "9 AM - 3 PM GMT-5",
+    "time": "9 AM - 2 PM GMT-5",
     "venue": {
       "address": "UEES, Samborondón, Ecuador",
       "map_link": "https://maps.app.goo.gl/FpMsofDcJ6nd2qHcA"
@@ -60,7 +60,7 @@
         "description": "Accede a charlas y talleres con expertos, donde explorarás las últimas tendencias y tecnologías de Google, desde desarrollo móvil hasta inteligencia artificial."
       },
       {
-        "title": "Netwoking",
+        "title": "Networking",
         "description": "Conéctate con otros desarrolladores, comparte experiencias y amplía tu red profesional en un ambiente colaborativo."
       },
       {
@@ -79,12 +79,12 @@
         {
           "default": "image-2.jpeg",
           "medium": "image-2-min.png"
-        }, 
+        },
         {
           "default": "image-3.jpeg",
           "medium": "image-3-min.png"
         }
-    ],
+      ],
       "stats": [
         {
           "name": "Ponentes",
