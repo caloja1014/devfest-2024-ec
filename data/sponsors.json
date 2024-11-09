@@ -40,5 +40,15 @@
         "logo": "Logo-UEES-2018---Vertical.png"
       }
     ]
+  },
+  {
+    "category_name": "Colaboradores",
+    "sponsors": [
+      {
+        "name": "Club Estudiantil PHYCOM",
+        "link": "http://phycom.oe.espol.edu.ec",
+        "logo": "phycom_logo.png"
+      }
+    ]
   }
 ]
