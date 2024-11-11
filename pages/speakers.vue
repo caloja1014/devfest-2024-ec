@@ -3,24 +3,17 @@
     <v-container fluid class="mt-5">
       <v-row>
         <v-col md="12">
-          <h1>Speakers</h1>
+          <h1>Ponentes</h1>
           <p>
-            Our speakers are influential leaders and allies actively involved in
-            various communities within their organizations, cities, countries,
-            and beyond, making a significant impact through their contributions
-            and support.
+            Nuestros ponentes son líderes inspiradores y aliados comprometidos que participan activamente en sus
+            comunidades, tanto en sus organizaciones como en sus ciudades, países y más allá, dejando una huella
+            positiva con su apoyo y contribuciones. Conoce más de ellos al hacer clic en sus perfiles.
           </p>
         </v-col>
       </v-row>
 
       <v-row>
-        <v-col
-          md="2"
-          cols="6"
-          sm="3"
-          v-for="(item, index) in speakersData"
-          :key="index"
-        >
+        <v-col md="2" cols="6" sm="3" v-for="(item, index) in speakersData" :key="index">
           <common-speaker-card :data="item" />
         </v-col>
       </v-row>
@@ -41,7 +34,7 @@ useSeoMeta({
     "Speakers - " + mainData.eventInfo.name + " | " + mainData.communityName,
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
-  ogLocale:'en_US',
+  ogLocale: 'es_EC',
   author: "OSS Labs",
   creator: "OSS Labs",
   viewport: "width=device-width, initial-scale=1.0",

@@ -5,9 +5,8 @@
         <v-col md="12">
           <h1>Agenda</h1>
           <p>
-            Follow code demonstrations by our expert speakers on different
-            tracks. Check out the schedule below and don't forget to mark your
-            calendar so that you don't miss out on any sessions.
+            Sigue las charlas y demos de nuestros ponentes expertos en diferentes áreas. Consulta el programa a
+            continuación y no olvides marcar tu calendario para que no te pierdas ninguna sesión
           </p>
         </v-col>
       </v-row>
@@ -15,29 +14,15 @@
         <v-row class="mb-7">
           <v-col>
             <v-toolbar flat class="px-0" style="border-radius: 15px">
-              <v-tabs
-                v-model="model"
-                color="primary"
-                slider-color="primary"
-                centered
-                class="px-3"
-              >
+              <v-tabs v-model="model" color="primary" slider-color="primary" centered class="px-3">
                 <v-tab v-for="(item, index) in scheduleData" :key="index">{{
-                  item.date
-                }}</v-tab>
+                  item.room
+                  }}</v-tab>
               </v-tabs>
             </v-toolbar>
 
-            <v-tabs-window
-              v-model="model"
-              class="mt-5 py-0"
-              style="background-color: white; border-radius: 15px"
-            >
-              <v-tabs-window-item
-                v-for="(item, index) in scheduleData"
-                :key="index"
-                class="pa-0 ma-0"
-              >
+            <v-tabs-window v-model="model" class="mt-5 py-0" style="background-color: white; border-radius: 15px">
+              <v-tabs-window-item v-for="(item, index) in scheduleData" :key="index" class="pa-0 ma-0">
                 <CommonScheduleDetails :data="item" />
               </v-tabs-window-item>
             </v-tabs-window>
@@ -60,7 +45,7 @@ useSeoMeta({
   title: "Agenda - " + mainData.eventInfo.name + " | " + mainData.communityName,
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
-  ogLocale:'en_US',
+  ogLocale: 'en_US',
   author: "OSS Labs",
   creator: "OSS Labs",
   viewport: "width=device-width, initial-scale=1.0",
@@ -77,5 +62,4 @@ useSeoMeta({
   twitterCard: "summary_large_image",
 });
 </script>
-<style scoped>
-</style>
+<style scoped></style>

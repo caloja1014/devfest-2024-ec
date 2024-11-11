@@ -46,7 +46,7 @@
               </p>
               <p style="font-size: 100%">
                 <!-- <span class="mr-3">{{item.timeDuration}} Min</span> -->
-                <span v-if="props.data.date.length" class="mr-3"
+                <span v-if="props.data.date" class="mr-3"
                   ><v-icon small>mdi-calendar-month</v-icon>
                   {{ props.data.date }}</span
                 >
@@ -56,6 +56,7 @@
                 >
 
                 <span>{{ props.data.timeDuration }} Min</span>
+
               </p>
 
               <p

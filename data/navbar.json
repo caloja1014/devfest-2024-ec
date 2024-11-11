@@ -7,12 +7,12 @@
   {
     "name": "Agenda",
     "path": "/agenda",
-    "visible": false
+    "visible": true
   },
   {
     "name": "Ponentes",
     "path": "/speakers",
-    "visible": false
+    "visible": true
   },
   {
     "name": "Badge",

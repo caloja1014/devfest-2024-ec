@@ -1,138 +1,223 @@
 [
   {
     "id": "101",
-    "name": "Vrijraj Singh",
+    "name": "Diego de Granda",
     "company": {
-      "name": "agprop",
-      "designation": "CTO"
+      "name": "Platzi",
+      "designation": "EX Head of Product Engineering"
     },
-    "community_title": "Google Developer Expert for Firebase",
-    "image": "vrijraj.jpg",
-    "bio": "Vrijraj is a dedicated CTO at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+    "community_title": "Google Developer Expert for Web Technologies",
+    "image": "diego-de-granda.avif",
+    "bio": "Diego De Granda es un experto en desarrollo web y de producto con más de 12 años de experiencia en la industria. Su pasión por el emprendimiento y la innovación lo ha llevado a convertirse en un destacado miembro del programa de Google Developer Expert.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "102",
-    "name": "Full Name",
+    "name": "Luis Aviles",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Freelance",
+      "designation": "Technical Lead"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Google Developer Expert for Angular",
+    "image": "luis-aviles.avif",
+    "bio": "Luis Aviles es un apasionado del software de código abierto y las comunidades tecnológicas. Además de ser un orador público y formador en tecnología, Luis es autor de cursos y artículos técnicos. Disfruta de participar en meetups, hackathons, camps de programación y conferencias. Fundador y organizador de la comunidad Angular Bolivia y de la conferencia NG Bolivia, la primera conferencia internacional de Angular y Tecnologías Web en Bolivia. Como desarrollador de software, trabaja con diversas tecnologías como JavaScript, Angular, Node.js, TypeScript, Java, Docker y Git/GitHub en múltiples plataformas como Windows, OSX y GNU/Linux. Fuera de su trabajo, Luis disfruta de la astronomía, la fotografía y la astrofotografía, explorando su pasión por el espacio y el universo.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "103",
-    "name": "Full Name",
+    "name": "Karen Bermudez",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Ab Inbev",
+      "designation": "Senior Data Scientist"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "karen-bermudez.avif",
+    "bio": "Karen Bermúdez es Senior Data Scientist con más de 5 años de experiencia en el desarrollo de modelos de machine learning y gestión de infraestructuras de datos en la nube, utilizando plataformas como Azure y Google Cloud. Ha liderado la optimización de pipelines y la implementación de modelos predictivos, logrando mejoras significativas en la calidad de los datos y en métricas clave de negocio. Con experiencia en machine learning, NLP y analítica avanzada, Karen es apasionada por el uso de la ciencia de datos para impactar el crecimiento empresarial en diversas industrias.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "104",
-    "name": "Full Name",
+    "name": "Kevin Dávila",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "dotCMS",
+      "designation": "Sr Software Engineer"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Google Developer Expert en Angular & Microsoft MVP",
+    "image": "kevin-davila.avif",
+    "bio": "Kevin Dávila es un Sr Software Engineer con experiencia en frontend, especialmente con Angular. Es Google Developer Expert en Angular y Microsoft MVP, compartiendo su conocimiento en redes y co-fundador de la academia de programación CodeaBien.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    }
-  },
-  {
-    "id": "105",
-    "name": "Full Name",
-    "company": {
-      "name": "Company",
-      "designation": "Designation"
-    },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://linkedin.com/in/kevin-davila-dev/",
+      "twitter": "https://twitter.com/kevindaviladev",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "106",
-    "name": "Full Name",
+    "name": "Jean Espinoza",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Dátil",
+      "designation": "Product Leader"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "jean-espinoza.avif",
+    "bio": "Jean Espinoza es Ingeniero en Ciencias de la Computación con un Máster en Gestión y Diseño de Sistemas Tecnológicos. A sus 24 años, cuenta con aproximadamente 5 años de experiencia en el desarrollo de software, desempeñándose como Product Leader en Dátil. Su carrera se centra en liderar proyectos de transformación digital que optimizan y modernizan los procesos empresariales.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://linkedin.com/in/jespinozamaruri/",
+      "twitter": "",
+      "github": "",
+      "web": "https://datil.com"
     }
   },
   {
     "id": "107",
-    "name": "Full Name",
+    "name": "Camila Martins",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Storyblok",
+      "designation": "Senior SRE"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Google Developer Expert for Google Cloud Platform",
+    "image": "cami-martins.avif",
+    "bio": "Camila Martins es Senior Site Reliability Engineer en Storyblok, con un posgrado en Informática Forense y un máster en Gestión Avanzada de Redes en la UNIRIO. Es Docker Community Leader, Hashicorp Ambassador y Google Developer Expert. Además, organiza y participa como ponente en eventos DevOps e instruye en LinuxTips.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "108",
-    "name": "Full Name",
+    "name": "Frank Moreno",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "",
+      "designation": "Mobile Developer"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "frank-moreno.avif",
+    "bio": "Frank Moreno es un especialista en desarrollo móvil, apasionado por el crecimiento y evolución de las plataformas móviles en la industria tecnológica.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "109",
+    "name": "Alexis Estevez",
+    "company": {
+      "name": "The Bridge",
+      "designation": "Senior Consultant"
+    },
+    "community_title": "",
+    "image": "alexis-estevez.avif",
+    "bio": "Alexis Estevez es un Data & Machine Learning Engineer con más de 5 años de experiencia en entornos de nube y on-premise, especializado en DataOps y MLOps con enfoque en CICD. Ha trabajado en industrias como gobierno, fintech y edtech, contribuyendo al crecimiento de empresas a través de datos. Apasionado por el marco ágil y la calidad en los entregables, busca ayudar a las empresas a escalar mediante soluciones de datos innovadoras y efectivas.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "110",
+    "name": "Boris Benalcazar",
+    "company": {
+      "name": "DevBase",
+      "designation": "Full Stack Developer"
+    },
+    "community_title": "Co-organizador de Flutter Ecuador",
+    "image": "boris-benalcazar.avif",
+    "bio": "Boris Benalcazar es un desarrollador full stack con más de 9 años de experiencia en desarrollo web y móvil. Es co-organizador de Flutter Ecuador y se enfoca en diseñar interfaces de usuario efectivas, realizar pruebas y depuración, así como en formar equipos en desarrollo de aplicaciones complejas.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "111",
+    "name": "Euro Criollo",
+    "company": {
+      "name": "ESPOL",
+      "designation": "Presidente del Club Phycom"
+    },
+    "community_title": "",
+    "image": "euro-josue-criollo-pincay.avif",
+    "bio": "Euro Criollo es presidente del club Phycom en ESPOL y apasionado por la tecnología, con experiencia en creatividad, redes sociales y producción. Ha participado en proyectos como Manos Clic y Rotary Maze, y ha representado al club en hackathones y ferias universitarias. Apasionado por la visión artificial y la programación, promueve espacios de aprendizaje accesibles para jóvenes interesados en la tecnología.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/euro-josue-criollo-pincay",
+      "twitter": "https://twitter.com/euro_criollo",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "112",
+    "name": "Carlos Carvajal",
+    "company": {
+      "name": "Globant",
+      "designation": "Mobile Developer Consultant"
+    },
+    "community_title": "",
+    "image": "carlos-carvajal.avif",
+    "bio": "Carlos Carvajal es un ingeniero en Ciencias Computacionales de 26 años y Mobile Developer Consultant en Globant, con más de 5 años de experiencia en el desarrollo de software. Graduado de ESPOL, se destaca por sus sólidos conocimientos en frameworks y arquitecturas tanto en Web como en Mobile. Con un enfoque en el crecimiento constante, explora también áreas de Backend, infraestructura de software y cultura DevOps.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "113",
+    "name": "Karen Calva",
+    "company": {
+      "name": "Kushki",
+      "designation": "Machine Learning Lead"
+    },
+    "community_title": "",
+    "image": "karen-calva.avif",
+    "bio": "Karen Calva es Líder de Machine Learning en Kushki, una pasarela de pagos unicornio en Ecuador que opera en toda América Latina. Con experiencia en machine learning y big data, lidera proyectos estratégicos para la empresa y también ha contribuido en la educación superior como docente en ciencia de datos, compartiendo su pasión por las soluciones tecnológicas aplicadas.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "114",
+    "name": "Hugo Porras",
+    "company": {
+      "name": "Banco Guayaquil",
+      "designation": "R&D Lead"
+    },
+    "community_title": "",
+    "image": "hugo-porras.avif",
+    "bio": "Hugo Porras es Líder de Investigación y Desarrollo en Banco Guayaquil, uno de los bancos más grandes de Ecuador. Con experiencia en soluciones analíticas en el sector bancario, también es consultor independiente en inteligencia artificial para recursos humanos y finanzas. Su trabajo se enfoca en optimizar procesos y transformar el sector financiero mediante el uso de IA.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   }
 ]

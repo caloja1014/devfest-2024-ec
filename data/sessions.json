@@ -1,62 +1,160 @@
 [
-    {
-        "id": "1001",
-        "slide": "",
-        "title": "Session 1",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
-        "speakers": [
-            101
-        ]
-    },
-    {
-        "id": "1002",
-        "slide": "",
-        "title": "Session 2",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
-        "speakers": [
-            101
-        ]
-    },
-    {
-        "id": "1003",
-        "slide": "",
-        "title": "Session 3",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
-        "speakers": [
-            102, 101
-        ]
-    },
-    {
-        "id": "1004",
-        "slide": "",
-        "title": "Session 4",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
-        "speakers": [
-            102
-        ]
-    }
+  {
+    "id": "1001",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "09:15 - 09:50",
+    "title": "TBC",
+    "description": "",
+    "track": "Soft Skills",
+    "speakers": [101]
+  },
+  {
+    "id": "1002",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "09:50 - 10:25",
+    "title": "Análisis de sentimientos de redes sociales",
+    "description": "",
+    "track": "AI",
+    "speakers": [103]
+  },
+  {
+    "id": "1003",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "11:20 - 11:55",
+    "title": "Cilium, eBPF y insights con Gemini",
+    "description": "",
+    "track": "Cloud",
+    "speakers": [107]
+  },
+  {
+    "id": "1004",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "11:55 - 12:30",
+    "title": "Rompiendo la brecha de la IA entre la academia y la industria",
+    "description": "",
+    "track": "AI",
+    "speakers": [109]
+  },
+  {
+    "id": "1005",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "13:00 - 13:25",
+    "title": "Desarrollo de Aplicaciones con Visión Artificial y OpenCV",
+    "description": "",
+    "track": "AI",
+    "speakers": [111]
+  },
+  {
+    "id": "1006",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "13:25 - 14:00",
+    "title": "Arquitectura Cloud para Ecosistemas de AI y BI",
+    "description": "",
+    "track": "Cloud",
+    "speakers": [113, 114]
+  },
+  {
+    "id": "2001",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "09:15 - 09:50",
+    "title": "AI-Powered Web Apps: An Integration of Gemini Models and Chrome APIs",
+    "description": "",
+    "track": "Web",
+    "speakers": [102]
+  },
+  {
+    "id": "2002",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "09:50 - 10:25",
+    "title": "Angular Signals: A reactive model towards the future",
+    "description": "",
+    "track": "Web",
+    "speakers": [104]
+  },
+  {
+    "id": "2003",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "10:25 - 11:00",
+    "title": "Flutter: Velocidad sin comprometer calidad",
+    "description": "",
+    "track": "Mobile",
+    "speakers": [106]
+  },
+  {
+    "id": "2004",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "11:55 - 12:30",
+    "title": "Flutter para Javascript developers",
+    "description": "",
+    "track": "Web",
+    "speakers": [110]
+  },
+
+  {
+    "id": "2005",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "11:20 - 11:55",
+    "title": "TBC",
+    "description": "",
+    "track": "Mobile",
+    "speakers": [108]
+  },
+
+  {
+    "id": "2006",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "10:25 - 11:00",
+    "title": "Flutter Beyond the Main Thread: Mastering Isolates for High-Performance Apps",
+    "description": "",
+    "track": "Mobile",
+    "speakers": [112]
+  }
 ]
