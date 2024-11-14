@@ -7,7 +7,7 @@
     "date": "Nov 23, 2024",
     "timeDuration": "40",
     "time": "09:15 - 09:50",
-    "title": "TBC",
+    "title": "Manager o Líder?, las soft skills marcan la diferencia",
     "description": "",
     "track": "Soft Skills",
     "speakers": [101]
@@ -24,6 +24,19 @@
     "description": "",
     "track": "AI",
     "speakers": [103]
+  },
+  {
+    "id": "1007",
+    "slide": "",
+    "link": "https://www.youtube.com/embed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3Eembed/XVQ7KuqZsr4?si=Xu7NMu6MbjzQ9x3E",
+    "format": "Day 1",
+    "date": "Nov 23, 2024",
+    "timeDuration": "40",
+    "time": "10:25 - 11:00",
+    "title": "The Future of AI: Ethical Considerations for a Changing World",
+    "description": "",
+    "track": "AI",
+    "speakers": [105]
   },
   {
     "id": "1003",
@@ -77,6 +90,7 @@
     "track": "Cloud",
     "speakers": [113, 114]
   },
+
   {
     "id": "2001",
     "slide": "",
@@ -138,7 +152,7 @@
     "date": "Nov 23, 2024",
     "timeDuration": "40",
     "time": "11:20 - 11:55",
-    "title": "TBC",
+    "title": "Flutter vs KMP: Un análisis del pasado, presente y futuro",
     "description": "",
     "track": "Mobile",
     "speakers": [108]
