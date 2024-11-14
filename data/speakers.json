@@ -68,23 +68,6 @@
     }
   },
   {
-    "id": "104",
-    "name": "Kevin Dávila",
-    "company": {
-      "name": "dotCMS",
-      "designation": "Sr Software Engineer"
-    },
-    "community_title": "Google Developer Expert en Angular & Microsoft MVP",
-    "image": "kevin-davila.avif",
-    "bio": "Kevin Dávila es un Sr Software Engineer con experiencia en frontend, especialmente con Angular. Es Google Developer Expert en Angular y Microsoft MVP, compartiendo su conocimiento en redes y co-fundador de la academia de programación CodeaBien.",
-    "social": {
-      "linkedin": "https://linkedin.com/in/kevin-davila-dev/",
-      "twitter": "https://twitter.com/kevindaviladev",
-      "github": "",
-      "web": ""
-    }
-  },
-  {
     "id": "105",
     "name": "Carlos Villavicencio",
     "company": {
