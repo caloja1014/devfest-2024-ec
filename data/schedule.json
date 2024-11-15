@@ -15,8 +15,8 @@
         "session": 1002
       },
       {
-        "startTime": "09:50",
-        "endTime": "10:25",
+        "startTime": "10:25",
+        "endTime": "11:00",
         "session": 1007
       },
       {
@@ -57,19 +57,24 @@
         "session": 2002
       },
       {
+        "startTime": "10:25",
+        "endTime": "11:00",
+        "session": 2003
+      },
+      {
         "startTime": "11:20",
         "endTime": "11:55",
-        "session": 2003
+        "session": 2004
       },
       {
         "startTime": "11:55",
         "endTime": "12:30",
-        "session": 2004
+        "session": 2005
       },
       {
         "startTime": "13:00",
         "endTime": "13:25",
-        "session": 2005
+        "session": 2006
       }
     ]
   }

@@ -28,7 +28,13 @@
         "name": "Jetbrains",
         "link": "https://www.jetbrains.com/es-es/",
         "logo": "jetbrains_DM7wGjl.png"
-      },
+      }
+    ]
+  },
+
+  {
+    "category_name": "Partner",
+    "sponsors": [
       {
         "name": "McDonalds",
         "link": "https://www.mcdonalds.com.ec/",

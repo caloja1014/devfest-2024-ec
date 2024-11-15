@@ -5,11 +5,9 @@
         <v-col md="12">
           <h1>Team</h1>
           <p>
-            Our mission is to equip our community members with practical skills,
-            enabling them to communicate their insights and drive innovative
-            solutions effectively. Whatever your challenge, these leaders on the
-            front line of transformation, innovation, and exploration helped
-            solve it with you.
+            Todo esto es posible gracias a un grupo excepcional de voluntarios y organizadores que, con su dedicación y
+            esfuerzo, hacen realidad este evento. Ellos son el corazón de esta experiencia, trabajando en equipo para
+            transformar desafíos en oportunidades y crear un espacio único para el aprendizaje y la inspiración.
           </p>
         </v-col>
       </v-row>
@@ -33,7 +31,7 @@ useSeoMeta({
   title: "Team - " + mainData.eventInfo.name + " | " + mainData.communityName,
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
-  ogLocale:'en_US',
+  ogLocale: 'en_US',
   author: "OSS Labs",
   creator: "OSS Labs",
   viewport: "width=device-width, initial-scale=1.0",
@@ -50,5 +48,4 @@ useSeoMeta({
 });
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>

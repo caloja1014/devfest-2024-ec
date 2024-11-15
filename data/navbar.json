@@ -22,7 +22,7 @@
   {
     "name": "Team",
     "path": "/team",
-    "visible": false
+    "visible": true
   },
   {
     "name": "FAQ",

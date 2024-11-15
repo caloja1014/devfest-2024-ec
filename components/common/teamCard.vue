@@ -6,7 +6,6 @@
         style="cursor: pointer"
         class="text-center image-container"
       >
-        <v-img alt="frame" class="frame" src="/assets/img/frame.png"></v-img>
         <v-img
           class="avatar"
           aspect-ratio="1"
@@ -33,7 +32,6 @@
         <v-row>
           <v-col md="4" cols="12">
             <div class="text-center image-container">
-              <v-img alt="frame" class="frame" src="/assets/img/frame.png"></v-img>
               <v-img
                 class="avatar"
                 :alt="props.data.name"
@@ -87,12 +85,13 @@ const dialog = ref(false);
   width: 80%;
   margin-top: 20px;
 }
-
 .avatar {
   width: 100%;
+  border-radius: 100%;
+  margin-bottom: 0.6rem;
   height: auto;
   position: relative;
-  border: 1px solid white;
+  border: 0.1rem solid black;
 }
 
 .frame {

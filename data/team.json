@@ -1,73 +1,397 @@
 [
   {
     "id": "6001",
-    "name": "Carlos Loja",
+    "name": "Jenny Garcia",
     "company": {
-      "name": "The Bridge",
-      "designation": "Software Developer"
+      "name": "",
+      "designation": "FOTOGRAFIA Y ENTREVISTAS DURANTE EL EVENTO"
     },
-    "community_title": "Google Developer Expert for Firebase",
-    "image": "vrijraj.jpg",
-    "bio": "Vrijraj is a dedicated CTO at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+    "community_title": "UX",
+    "image": "",
+    "bio": "PERTENEZCO AL GDG TSACHILA, CUENTO CON CAMARA PROFESIONAL PARA FOTOS Y GRABAR, LUEGO HACER UN VIDEO RESUMEN.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    },
-    "type": "Core"
-  },
-  {
-    "id": "6002",
-    "name": "Shivam Singh",
-    "company": {
-      "name": "OSS Labs Community",
-      "designation": "Designer"
-    },
-    "community_title": "Designer",
-    "image": "shivam.png",
-    "bio": "A problem solver who uses his creative talents to tackle design-related challenges. With a keen eye for detail and an innate understanding of infographics, visual design, and UI/UX. I am able to transform complex information into visually compelling and user-friendly designs. Whether it includes working on a brand-new project or revamping an existing design.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/s-shivam/",
-      "twitter": "https://twitter.com/Shivamc504?t=Vc1j2jeHDLkS1-cSM1LSkg&s=09",
+      "linkedin": "",
+      "twitter": "",
       "github": "",
-      "web": "https://shivam.live/"
-    },
-    "type": "Core"
-  },
-  {
-    "id": "6002",
-    "name": "Sandali Singh",
-    "company": {
-      "name": "OSS Labs Community",
-      "designation": "Developer"
-    },
-    "community_title": "Developer",
-    "image": "sandali.jpg",
-    "bio": "I'm Sandali singh, a Software Developer, fueled by curiosity and driven by innovation,with a passion for full-stack development. Equipped with a solid foundation in computer science and hands-on experience in various programming languages and technologies, I am eager to embark on my journey as a full-stack developer. My academic background has honed my problem-solving skills and instilled in me a keen attention to detail, both of which are essential traits in the world of software development. With a strong desire to learn and grow in this dynamic field, I am excited to contribute my creativity and technical expertise to building innovative and user-friendly solutions.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/sandali-singh/",
-      "twitter": "https://twitter.com/_Sandali_Singh_",
-      "github": "https://github.com/sandali-singh",
-      "web": "https://sandali.xyz/"
+      "web": ""
     },
     "type": "Volunteer"
   },
   {
     "id": "6002",
-    "name": "Full Name",
+    "name": "Kevin Palma",
     "company": {
-      "name": "OSS Labs Community",
-      "designation": "Developer"
+      "name": "",
+      "designation": "MIEMBRO GDG TSACHILA"
     },
-    "community_title": "Developer",
+    "community_title": "IA, Cloud, Mobile, Web, UX, infraestructura, microservicios ",
     "image": "",
-    "bio": "Full Name and Bio",
+    "bio": "MIEMBRO GDG TSACHILA y DevOps que se encuentra desempe\u00f1ando trabajo de asesor\u00eda y administraci\u00f3n en empresas del Ecuador en el \u00e1rea de tecnolog\u00eda ",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/",
-      "twitter": "https://twitter.com",
-      "github": "https://github.com",
-      "web": "https://example.com"
+      "linkedin": "www.linkedin.com/in/kevin-alexander-palma-4a7008141",
+      "twitter": "",
+      "github": "",
+      "web": "https://socket-studioec.com/"
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6003",
+    "name": "Miguel Noboa",
+    "company": {
+      "name": "",
+      "designation": "Dise\u00f1o"
+    },
+    "community_title": "UX",
+    "image": "",
+    "bio": "\"Apasionado por entender el porqu\u00e9 detr\u00e1s de las decisiones de las personas en el mundo digital. Dise\u00f1ador de producto centrado en el usuario y amante de\u00a0los\u00a0animales.\"",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/miguelnoboa/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6004",
+    "name": "Kelly Saltos ",
+    "company": {
+      "name": "",
+      "designation": "Relaciones p\u00fablicas"
+    },
+    "community_title": "IA, Data analytics",
+    "image": "",
+    "bio": "Me apasiona c\u00f3mo los datos pueden guiar decisiones tanto en los negocios como en la vida diaria. Disfruto transformar informaci\u00f3n compleja en insights valiosos para impulsar estrategias\u00a0efectivas.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nicolle-saltos/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6005",
+    "name": "Fernando",
+    "company": {
+      "name": "GDG Guayaquil",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Mobile, UX",
+    "image": "",
+    "bio": "Soy ingeniero en computaci\u00f3n con una gran pasi\u00f3n por el desarrollo m\u00f3vil, especializado en Flutter, donde encuentro la mezcla perfecta de creatividad y tecnolog\u00eda. Me gusta el f\u00fatbol y l la m\u00fasica; toco la guitarra y el piano. Siempre estoy buscando aprender y mejorar.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/fernando-bucheli/",
+      "twitter": "",
+      "github": "",
+      "web": "https://fernandobucheli.framer.website/"
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6006",
+    "name": "Alex Villegas",
+    "company": {
+      "name": "GDG Guayaquil, CIAP",
+      "designation": "Redes sociales"
+    },
+    "community_title": "IA, Mobile, Web",
+    "image": "",
+    "bio": "Estudiante egresado de Ingenier\u00eda en Computaci\u00f3n, comprometido con aplicar los conocimientos adquiridos a lo largo de la carrera para proveer de soluciones creativas. Me destaco en la colaboraci\u00f3n, fusionando responsabilidad y honestidad en el n\u00facleo de mi trabajo en equipo. Encaro desaf\u00edos con entusiasmo y determinaci\u00f3n, siempre con el objetivo de ser un motor impulsor del \u00e9xito.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/alex-villegas-paucar-79025b221/",
+      "twitter": "https://x.com/ajvilleg19",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6007",
+    "name": "Edu",
+    "company": {
+      "name": "GDG Guayaquil",
+      "designation": "Relaciones p\u00fablicas"
+    },
+    "community_title": "IA, Web",
+    "image": "",
+    "bio": "Soy Edu Casa\u00f1as, graduado de Espol en ingenier\u00eda en petr\u00f3leo, pero decid\u00ed darle un nuevo rumbo a mi vida haciendo lo que me apasiona, programar. Actualmente estoy estudiando tecnolog\u00eda de la informaci\u00f3n(2semestre) en la universidad de Guayaquil, viendo materias como base de datos, estructura de datos que son de mis favoritas. Bueno espero poder ayudar.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6008",
+    "name": "Euro Criollo",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Dise\u00f1o"
+    },
+    "community_title": "IA, Mobile, Web",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "Euro Josue Criollo Pincay",
+      "twitter": "euro_criollo",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6009",
+    "name": "Erick Sanchez",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Cloud, Mobile, Web",
+    "image": "",
+    "bio": "Estudiante de Ingenieria en electronica y Automatizacion, apasionado por la lectura, pel\u00edculas y series.",
+    "social": {
+      "linkedin": "ericksanchezengineer",
+      "twitter": "no tengo",
+      "github": "",
+      "web": "no tengo"
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6010",
+    "name": "CodeCarv",
+    "company": {
+      "name": "GDG Guayaquil, PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Cloud, Web, UX",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kevincarvajal22",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6011",
+    "name": "Emilia Campozano",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, UX",
+    "image": "",
+    "bio": "Soy Emilia Campozano, estudiante de Auditor\u00eda y Control de Gesti\u00f3n en ESPOL.",
+    "social": {
+      "linkedin": "www.linkedin.com/in/emiliacampozano",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6012",
+    "name": "Carlos Bermello",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Cloud, Cybersecurity ",
+    "image": "",
+    "bio": "Estudiante de Ingenier\u00eda en Ciencias de la Computaci\u00f3n y entusiasta de las Telecomunicaciones y la Ciberseguridad",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/carlosbermello",
+      "twitter": "@belocast_",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6013",
+    "name": "Juliana Burgos",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Cloud, Web",
+    "image": "",
+    "bio": "Estudiante de computaci\u00f3n de la espol ",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6014",
+    "name": "Domenica Bola\u00f1os",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Cloud",
+    "image": "",
+    "bio": "Estudiante de Espol, 20 a\u00f1os, carrera de computaci\u00f3n.",
+    "social": {
+      "linkedin": "Domenica Bola\u00f1os",
+      "twitter": "no dispongo",
+      "github": "",
+      "web": "no dispongo"
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6015",
+    "name": "Allison Palma Cardenas",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Cloud, Mobile, Web, UX",
+    "image": "",
+    "bio": "Estudiante de nutrici\u00f3n, que se encuentra en el club de Phycom.",
+    "social": {
+      "linkedin": "Allison Palma",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6016",
+    "name": "Cristina",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Mobile, Web",
+    "image": "",
+    "bio": "Soy estudiante de Ingenier\u00eda en Ciencias de la Computaci\u00f3n en ESPOL. Me apasiona la tecnolog\u00eda, lo que me ha llevado a trabajar en proyectos variados. Disfruto aprender, resolver problemas y colaborar en equipo.",
+    "social": {
+      "linkedin": "www.linkedin.com/in/mar\u00eda-cristina-andrade-echeverr\u00eda-a640031b9",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6017",
+    "name": "H\u00e9ctor",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/h%C3%A9ctor-la-mota-5a9b7a2a8/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6018",
+    "name": "Henry Torres",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Cloud, Mobile, Web, UX",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6019",
+    "name": "Elena Velez",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "IA, Mobile, Web",
+    "image": "",
+    "bio": "Soy una sencilla nutricionista que le interesa aprender cosas de diferentes campos.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6020",
+    "name": "Ariel Vargas ",
+    "company": {
+      "name": "PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "Mobile, Web, UX, Cybersecurity ",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6021",
+    "name": "Lily",
+    "company": {
+      "name": "GDG Guayaquil",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "Mobile",
+    "image": "",
+    "bio": "Soy Lisbeth Sanchez, profesional en auditor\u00eda y contabilidad con m\u00e1s de dos a\u00f1os de experiencia en el \u00e1rea. Me apasiona asegurar la precisi\u00f3n financiera y seguir desarroll\u00e1ndome en el campo, con el objetivo de obtener certificaciones como relacionadas a mi campo de estudio y fortalecer mis conocimientos en impuestos y normas contables.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/lisbethsanchezalarcon?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Volunteer"
+  },
+  {
+    "id": "6022",
+    "name": "Xavier",
+    "company": {
+      "name": "GDG Guayaquil, PHYCOM",
+      "designation": "Log\u00edstica"
+    },
+    "community_title": "Web, UX",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
     },
     "type": "Volunteer"
   }
